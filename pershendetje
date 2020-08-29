@@ -1,0 +1,39 @@
+<html>
+<head>
+	<link href='https://fonts.googleapis.com/css?family=Autour One' rel='stylesheet'>
+	<meta name="viewport" content="width=device-width,initital-sacle=1"
+	<meta charset="utf-8">
+	<title>About Us</title>
+	<link rel="stylesheet" type="text/css" href="home.css">
+	<link rel='https://fonts.googleapis.com/css?family=Teko'>
+</head>
+
+<header>
+	<h1>ATAF</h1>
+	<nav>
+		<ul>
+			<li><a class="current" href="#">HOME</a></li>
+            <li><a href="albaniafood.html">ALBANIA FOOD</a></li>		
+		    <li><a href="albaniatradicion.html">ALBANIA TRADICION</a></li>
+		    <li><a href="aboutus.html">ABOUT US</a></li>
+
+		</ul>
+
+
+	</nav>
+</header>
+
+
+<body>
+
+
+	<h1 class="traditat">Traditat</h1>
+	<p class="p1-traditat"></p>
+ 
+ 
+
+
+
+
+</body>
+</html>
